@@ -1,0 +1,6 @@
+branches:
+  only:
+    - master
+    
+platform: Any CPU
+configuration: Release
